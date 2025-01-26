@@ -33,5 +33,5 @@ I am **Hassan Zaib**, a passionate **Web Developer** with expertise in **HTML**,
 
 Feel free to reach out to collaborate or discuss exciting opportunities!  
 - 📧 Email: mustafa20khan01@gmail.com  
-- 🌐 Portfolio: https://webro1989.github.io/portfolio-webpage/  
-- 💼 LinkedIn:   https://www.linkedin.com/hasanzaib89/
+- 🌐 Portfolio: https://webro1989.github.io/portfolio-webpage/(#)  
+- 💼 LinkedIn: https://www.linkedin.com/me?trk=p_mwlite_profile_self-secondary_nav(#)
